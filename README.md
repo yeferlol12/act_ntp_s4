@@ -9,14 +9,14 @@ Desarrollar habilidades en el uso de estructuras de control repetitivas (bucles)
 
 #### 1. Fork del Repositorio
 1. **Hacer Fork**: Haz clic en el botón "Fork" en la esquina superior derecha de este repositorio
+
+```
+https://github.com/jfinfocesde/act_ntp_s4.git
+```  
 2. **Clonar tu Fork**: Clona tu repositorio fork a tu máquina local
    ```bash
-   git clone https://github.com/TU_USUARIO/act_ntp_s3.git
-   cd act_ntp_s3
-   ```
-3. **Configurar upstream**: Configura el repositorio original como upstream
-   ```bash
-   git remote add upstream https://github.com/REPOSITORIO_ORIGINAL/act_ntp_s3.git
+   git clone https://github.com/TU_USUARIO/act_ntp_s4.git
+   cd act_ntp_s4
    ```
 
 #### 2. Estructura del Proyecto
