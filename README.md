@@ -1,4 +1,4 @@
-# 📚 Actividad NTP S3 - Estructuras de control (bucles) y Estructuras de datos - Colecciones en Python
+# 📚 Actividad 4 - Estructuras de control (bucles) y Estructuras de datos - Colecciones en Python
 
 ## 🎯 Instrucciones de la Actividad
 
