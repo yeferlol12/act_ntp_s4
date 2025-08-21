@@ -1,13 +1,12 @@
-n=int(input("Ingrese un número: "))
-pares=0
-impares=0
-for numero in range(0, n ):
-    if numero %2==0:
-        pares+=1
-    else:
-        impares+=1
-print("Cantidad de números pares: ", pares)
-print("Cantidad de números impares: ", impares)
+def numeros_pares(lista):
+    pares = []
+    for n in lista:
+        if n % 2 == 0:
+            pares.append(n)
+    return pares
+numeros = [1,2,3,4,5,6,7,8,9,10]
+resultado = numeros_pares(numeros)
 
+print("Números pares:", resultado)
     
 
